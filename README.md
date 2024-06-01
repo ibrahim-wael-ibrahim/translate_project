@@ -11,7 +11,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 1. **Clone the repository or download the script:**
 
    ```sh
-   git clone https://github.com/yourusername/batch-subtitle-translator.git
+   git clone https://github.com/ibrahim-wael-ibrahim/translate_project.git
    ```
 
 2. **Navigate to the project directory:**
